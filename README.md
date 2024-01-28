@@ -21,4 +21,4 @@ k-NN알고리즘을 이용해서 새로운 사용자에 대해 만족과 불만�
 
 
 ### 자세한 내용
-+ [보고서]https://github.com/TTricker2/User-satisfaction-prediction---using-KNN/blob/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%A7%8C%EC%A1%B1%EB%8F%84%20%EC%98%88%EC%B8%A1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
++ [보고서](https://github.com/TTricker2/User-satisfaction-prediction---using-KNN/blob/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%A7%8C%EC%A1%B1%EB%8F%84%20%EC%98%88%EC%B8%A1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)

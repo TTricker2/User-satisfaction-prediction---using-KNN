@@ -1,0 +1,710 @@
+traing and testing1 start! K=1
+The accuracy is 62.35000000000001%
+Total excution time: 0.315 sec
+
+traing and testing1 start! K=3
+The accuracy is 64.7%
+Total excution time: 0.442 sec
+
+traing and testing1 start! K=5
+The accuracy is 64.0%
+Total excution time: 0.536 sec
+
+traing and testing1 start! K=7
+The accuracy is 64.85%
+Total excution time: 0.721 sec
+
+traing and testing1 start! K=9
+The accuracy is 65.14999999999999%
+Total excution time: 0.915 sec
+
+traing and testing1 start! K=11
+The accuracy is 65.2%
+Total excution time: 1.088 sec
+
+traing and testing1 start! K=13
+The accuracy is 65.85%
+Total excution time: 1.272 sec
+
+traing and testing1 start! K=15
+The accuracy is 65.85%
+Total excution time: 1.476 sec
+
+traing and testing1 start! K=17
+The accuracy is 66.0%
+Total excution time: 1.682 sec
+
+traing and testing1 start! K=19
+The accuracy is 65.55%
+Total excution time: 1.96 sec
+
+traing and testing1 start! K=21
+The accuracy is 65.64999999999999%
+Total excution time: 2.295 sec
+
+traing and testing1 start! K=23
+The accuracy is 65.85%
+Total excution time: 2.581 sec
+
+traing and testing1 start! K=25
+The accuracy is 65.8%
+Total excution time: 2.916 sec
+
+traing and testing1 start! K=27
+The accuracy is 65.9%
+Total excution time: 3.235 sec
+
+traing and testing1 start! K=29
+The accuracy is 66.0%
+Total excution time: 3.587 sec
+
+bestK: 3
+accuracy: 64.7%
+execTime: 0.442sec
+
+
+traing and testing2 start! K=1
+The accuracy is 62.55%
+Total excution time: 0.288 sec
+
+traing and testing2 start! K=3
+The accuracy is 62.35000000000001%
+Total excution time: 0.379 sec
+
+traing and testing2 start! K=5
+The accuracy is 63.55%
+Total excution time: 0.542 sec
+
+traing and testing2 start! K=7
+The accuracy is 64.4%
+Total excution time: 0.72 sec
+
+traing and testing2 start! K=9
+The accuracy is 64.4%
+Total excution time: 0.911 sec
+
+traing and testing2 start! K=11
+The accuracy is 65.25%
+Total excution time: 1.098 sec
+
+traing and testing2 start! K=13
+The accuracy is 65.35%
+Total excution time: 1.289 sec
+
+traing and testing2 start! K=15
+The accuracy is 65.64999999999999%
+Total excution time: 1.471 sec
+
+traing and testing2 start! K=17
+The accuracy is 65.9%
+Total excution time: 1.734 sec
+
+traing and testing2 start! K=19
+The accuracy is 66.2%
+Total excution time: 1.961 sec
+
+traing and testing2 start! K=21
+The accuracy is 66.3%
+Total excution time: 2.282 sec
+
+traing and testing2 start! K=23
+The accuracy is 66.55%
+Total excution time: 2.632 sec
+
+traing and testing2 start! K=25
+The accuracy is 66.7%
+Total excution time: 2.914 sec
+
+traing and testing2 start! K=27
+The accuracy is 66.45%
+Total excution time: 3.217 sec
+
+traing and testing2 start! K=29
+The accuracy is 66.45%
+Total excution time: 3.574 sec
+
+bestK: 1
+accuracy: 62.55%
+execTime: 0.288sec
+
+
+traing and testing3 start! K=1
+The accuracy is 60.3%
+Total excution time: 0.281 sec
+
+traing and testing3 start! K=3
+The accuracy is 61.150000000000006%
+Total excution time: 0.371 sec
+
+traing and testing3 start! K=5
+The accuracy is 61.550000000000004%
+Total excution time: 0.532 sec
+
+traing and testing3 start! K=7
+The accuracy is 61.150000000000006%
+Total excution time: 0.718 sec
+
+traing and testing3 start! K=9
+The accuracy is 61.4%
+Total excution time: 0.902 sec
+
+traing and testing3 start! K=11
+The accuracy is 62.0%
+Total excution time: 1.085 sec
+
+traing and testing3 start! K=13
+The accuracy is 62.2%
+Total excution time: 1.268 sec
+
+traing and testing3 start! K=15
+The accuracy is 62.74999999999999%
+Total excution time: 1.468 sec
+
+traing and testing3 start! K=17
+The accuracy is 63.05%
+Total excution time: 1.678 sec
+
+traing and testing3 start! K=19
+The accuracy is 63.24999999999999%
+Total excution time: 1.952 sec
+
+traing and testing3 start! K=21
+The accuracy is 63.14999999999999%
+Total excution time: 2.281 sec
+
+traing and testing3 start! K=23
+The accuracy is 63.1%
+Total excution time: 2.592 sec
+
+traing and testing3 start! K=25
+The accuracy is 63.2%
+Total excution time: 2.908 sec
+
+traing and testing3 start! K=27
+The accuracy is 63.1%
+Total excution time: 3.229 sec
+
+traing and testing3 start! K=29
+The accuracy is 63.14999999999999%
+Total excution time: 3.549 sec
+
+bestK: 5
+accuracy: 61.550000000000004%
+execTime: 0.532sec
+
+
+traing and testing4 start! K=1
+The accuracy is 63.949999999999996%
+Total excution time: 0.424 sec
+
+traing and testing4 start! K=3
+The accuracy is 64.14999999999999%
+Total excution time: 0.373 sec
+
+traing and testing4 start! K=5
+The accuracy is 63.74999999999999%
+Total excution time: 0.543 sec
+
+traing and testing4 start! K=7
+The accuracy is 65.4%
+Total excution time: 0.714 sec
+
+traing and testing4 start! K=9
+The accuracy is 65.25%
+Total excution time: 0.905 sec
+
+traing and testing4 start! K=11
+The accuracy is 65.35%
+Total excution time: 1.085 sec
+
+traing and testing4 start! K=13
+The accuracy is 65.85%
+Total excution time: 1.27 sec
+
+traing and testing4 start! K=15
+The accuracy is 66.4%
+Total excution time: 1.481 sec
+
+traing and testing4 start! K=17
+The accuracy is 66.75%
+Total excution time: 1.67 sec
+
+traing and testing4 start! K=19
+The accuracy is 66.5%
+Total excution time: 1.961 sec
+
+traing and testing4 start! K=21
+The accuracy is 66.60000000000001%
+Total excution time: 2.27 sec
+
+traing and testing4 start! K=23
+The accuracy is 66.64999999999999%
+Total excution time: 2.588 sec
+
+traing and testing4 start! K=25
+The accuracy is 66.55%
+Total excution time: 2.901 sec
+
+traing and testing4 start! K=27
+The accuracy is 66.8%
+Total excution time: 3.214 sec
+
+traing and testing4 start! K=29
+The accuracy is 67.05%
+Total excution time: 3.554 sec
+
+bestK: 3
+accuracy: 64.14999999999999%
+execTime: 0.373sec
+
+
+traing and testing5 start! K=1
+The accuracy is 62.4%
+Total excution time: 0.28 sec
+
+traing and testing5 start! K=3
+The accuracy is 62.5%
+Total excution time: 0.389 sec
+
+traing and testing5 start! K=5
+The accuracy is 62.5%
+Total excution time: 0.592 sec
+
+traing and testing5 start! K=7
+The accuracy is 64.2%
+Total excution time: 0.734 sec
+
+traing and testing5 start! K=9
+The accuracy is 63.949999999999996%
+Total excution time: 0.932 sec
+
+traing and testing5 start! K=11
+The accuracy is 64.4%
+Total excution time: 1.137 sec
+
+traing and testing5 start! K=13
+The accuracy is 64.75%
+Total excution time: 1.386 sec
+
+traing and testing5 start! K=15
+The accuracy is 64.9%
+Total excution time: 1.495 sec
+
+traing and testing5 start! K=17
+The accuracy is 65.0%
+Total excution time: 1.778 sec
+
+traing and testing5 start! K=19
+The accuracy is 65.64999999999999%
+Total excution time: 2.033 sec
+
+traing and testing5 start! K=21
+The accuracy is 65.60000000000001%
+Total excution time: 2.346 sec
+
+traing and testing5 start! K=23
+The accuracy is 65.8%
+Total excution time: 2.625 sec
+
+traing and testing5 start! K=25
+The accuracy is 65.95%
+Total excution time: 2.946 sec
+
+traing and testing5 start! K=27
+The accuracy is 66.3%
+Total excution time: 3.259 sec
+
+traing and testing5 start! K=29
+The accuracy is 66.45%
+Total excution time: 3.532 sec
+
+bestK: 7
+accuracy: 64.2%
+execTime: 0.734sec
+
+
+traing and testing6 start! K=1
+The accuracy is 63.05%
+Total excution time: 0.279 sec
+
+traing and testing6 start! K=3
+The accuracy is 63.349999999999994%
+Total excution time: 0.371 sec
+
+traing and testing6 start! K=5
+The accuracy is 64.05%
+Total excution time: 0.534 sec
+
+traing and testing6 start! K=7
+The accuracy is 64.0%
+Total excution time: 0.74 sec
+
+traing and testing6 start! K=9
+The accuracy is 63.9%
+Total excution time: 0.904 sec
+
+traing and testing6 start! K=11
+The accuracy is 64.60000000000001%
+Total excution time: 1.091 sec
+
+traing and testing6 start! K=13
+The accuracy is 64.75%
+Total excution time: 1.276 sec
+
+traing and testing6 start! K=15
+The accuracy is 64.5%
+Total excution time: 1.465 sec
+
+traing and testing6 start! K=17
+The accuracy is 64.60000000000001%
+Total excution time: 1.714 sec
+
+traing and testing6 start! K=19
+The accuracy is 64.95%
+Total excution time: 1.967 sec
+
+traing and testing6 start! K=21
+The accuracy is 64.75%
+Total excution time: 2.31 sec
+
+traing and testing6 start! K=23
+The accuracy is 65.25%
+Total excution time: 2.632 sec
+
+traing and testing6 start! K=25
+The accuracy is 65.25%
+Total excution time: 2.911 sec
+
+traing and testing6 start! K=27
+The accuracy is 65.7%
+Total excution time: 3.247 sec
+
+traing and testing6 start! K=29
+The accuracy is 65.9%
+Total excution time: 3.569 sec
+
+bestK: 5
+accuracy: 64.05%
+execTime: 0.534sec
+
+
+traing and testing7 start! K=1
+The accuracy is 60.75000000000001%
+Total excution time: 0.279 sec
+
+traing and testing7 start! K=3
+The accuracy is 62.55%
+Total excution time: 0.375 sec
+
+traing and testing7 start! K=5
+The accuracy is 62.64999999999999%
+Total excution time: 0.54 sec
+
+traing and testing7 start! K=7
+The accuracy is 62.9%
+Total excution time: 0.717 sec
+
+traing and testing7 start! K=9
+The accuracy is 64.3%
+Total excution time: 0.906 sec
+
+traing and testing7 start! K=11
+The accuracy is 64.4%
+Total excution time: 1.085 sec
+
+traing and testing7 start! K=13
+The accuracy is 64.85%
+Total excution time: 1.269 sec
+
+traing and testing7 start! K=15
+The accuracy is 64.7%
+Total excution time: 1.455 sec
+
+traing and testing7 start! K=17
+The accuracy is 64.8%
+Total excution time: 1.674 sec
+
+traing and testing7 start! K=19
+The accuracy is 64.9%
+Total excution time: 2.009 sec
+
+traing and testing7 start! K=21
+The accuracy is 64.9%
+Total excution time: 2.279 sec
+
+traing and testing7 start! K=23
+The accuracy is 64.8%
+Total excution time: 2.584 sec
+
+traing and testing7 start! K=25
+The accuracy is 65.25%
+Total excution time: 2.906 sec
+
+traing and testing7 start! K=27
+The accuracy is 65.4%
+Total excution time: 3.23 sec
+
+traing and testing7 start! K=29
+The accuracy is 65.8%
+Total excution time: 3.533 sec
+
+bestK: 13
+accuracy: 64.85%
+execTime: 1.269sec
+
+
+traing and testing8 start! K=1
+The accuracy is 61.75000000000001%
+Total excution time: 0.317 sec
+
+traing and testing8 start! K=3
+The accuracy is 62.74999999999999%
+Total excution time: 0.431 sec
+
+traing and testing8 start! K=5
+The accuracy is 63.0%
+Total excution time: 0.54 sec
+
+traing and testing8 start! K=7
+The accuracy is 63.74999999999999%
+Total excution time: 0.748 sec
+
+traing and testing8 start! K=9
+The accuracy is 63.6%
+Total excution time: 0.935 sec
+
+traing and testing8 start! K=11
+The accuracy is 64.05%
+Total excution time: 1.086 sec
+
+traing and testing8 start! K=13
+The accuracy is 64.4%
+Total excution time: 1.271 sec
+
+traing and testing8 start! K=15
+The accuracy is 64.7%
+Total excution time: 1.458 sec
+
+traing and testing8 start! K=17
+The accuracy is 65.25%
+Total excution time: 1.672 sec
+
+traing and testing8 start! K=19
+The accuracy is 65.14999999999999%
+Total excution time: 1.954 sec
+
+traing and testing8 start! K=21
+The accuracy is 65.14999999999999%
+Total excution time: 2.281 sec
+
+traing and testing8 start! K=23
+The accuracy is 65.25%
+Total excution time: 2.602 sec
+
+traing and testing8 start! K=25
+The accuracy is 64.85%
+Total excution time: 2.918 sec
+
+traing and testing8 start! K=27
+The accuracy is 65.10000000000001%
+Total excution time: 3.249 sec
+
+traing and testing8 start! K=29
+The accuracy is 65.14999999999999%
+Total excution time: 3.536 sec
+
+bestK: 7
+accuracy: 63.74999999999999%
+execTime: 0.748sec
+
+
+traing and testing9 start! K=1
+The accuracy is 60.8%
+Total excution time: 0.28 sec
+
+traing and testing9 start! K=3
+The accuracy is 61.3%
+Total excution time: 0.374 sec
+
+traing and testing9 start! K=5
+The accuracy is 62.3%
+Total excution time: 0.534 sec
+
+traing and testing9 start! K=7
+The accuracy is 62.3%
+Total excution time: 0.721 sec
+
+traing and testing9 start! K=9
+The accuracy is 61.7%
+Total excution time: 0.905 sec
+
+traing and testing9 start! K=11
+The accuracy is 62.6%
+Total excution time: 1.091 sec
+
+traing and testing9 start! K=13
+The accuracy is 63.14999999999999%
+Total excution time: 1.282 sec
+
+traing and testing9 start! K=15
+The accuracy is 63.849999999999994%
+Total excution time: 1.506 sec
+
+traing and testing9 start! K=17
+The accuracy is 63.55%
+Total excution time: 1.7 sec
+
+traing and testing9 start! K=19
+The accuracy is 63.55%
+Total excution time: 2.059 sec
+
+traing and testing9 start! K=21
+The accuracy is 63.849999999999994%
+Total excution time: 2.294 sec
+
+traing and testing9 start! K=23
+The accuracy is 63.6%
+Total excution time: 2.603 sec
+
+traing and testing9 start! K=25
+The accuracy is 63.849999999999994%
+Total excution time: 2.919 sec
+
+traing and testing9 start! K=27
+The accuracy is 64.1%
+Total excution time: 3.249 sec
+
+traing and testing9 start! K=29
+The accuracy is 64.45%
+Total excution time: 3.544 sec
+
+bestK: 7
+accuracy: 62.3%
+execTime: 0.721sec
+
+
+traing and testing10 start! K=1
+The accuracy is 62.6%
+Total excution time: 0.284 sec
+
+traing and testing10 start! K=3
+The accuracy is 64.2%
+Total excution time: 0.382 sec
+
+traing and testing10 start! K=5
+The accuracy is 64.35%
+Total excution time: 0.585 sec
+
+traing and testing10 start! K=7
+The accuracy is 64.64999999999999%
+Total excution time: 0.736 sec
+
+traing and testing10 start! K=9
+The accuracy is 65.0%
+Total excution time: 0.947 sec
+
+traing and testing10 start! K=11
+The accuracy is 65.2%
+Total excution time: 1.105 sec
+
+traing and testing10 start! K=13
+The accuracy is 65.5%
+Total excution time: 1.295 sec
+
+traing and testing10 start! K=15
+The accuracy is 65.75%
+Total excution time: 1.485 sec
+
+traing and testing10 start! K=17
+The accuracy is 65.3%
+Total excution time: 1.677 sec
+
+traing and testing10 start! K=19
+The accuracy is 65.60000000000001%
+Total excution time: 2.006 sec
+
+traing and testing10 start! K=21
+The accuracy is 65.5%
+Total excution time: 2.277 sec
+
+traing and testing10 start! K=23
+The accuracy is 65.5%
+Total excution time: 2.599 sec
+
+traing and testing10 start! K=25
+The accuracy is 65.4%
+Total excution time: 2.927 sec
+
+traing and testing10 start! K=27
+The accuracy is 65.35%
+Total excution time: 3.258 sec
+
+traing and testing10 start! K=29
+The accuracy is 65.5%
+Total excution time: 3.541 sec
+
+bestK: 15
+accuracy: 65.75%
+execTime: 1.485sec
+
+
+------------------------------------
+For Training and Testing1
+The bestK = 3.0
+Accuracy = 64.7%
+Execution Time = 0.442sec
+------------------------------------
+------------------------------------
+For Training and Testing2
+The bestK = 1.0
+Accuracy = 62.55%
+Execution Time = 0.288sec
+------------------------------------
+------------------------------------
+For Training and Testing3
+The bestK = 5.0
+Accuracy = 61.550000000000004%
+Execution Time = 0.532sec
+------------------------------------
+------------------------------------
+For Training and Testing4
+The bestK = 3.0
+Accuracy = 64.14999999999999%
+Execution Time = 0.373sec
+------------------------------------
+------------------------------------
+For Training and Testing5
+The bestK = 7.0
+Accuracy = 64.2%
+Execution Time = 0.734sec
+------------------------------------
+------------------------------------
+For Training and Testing6
+The bestK = 5.0
+Accuracy = 64.05%
+Execution Time = 0.534sec
+------------------------------------
+------------------------------------
+For Training and Testing7
+The bestK = 13.0
+Accuracy = 64.85%
+Execution Time = 1.269sec
+------------------------------------
+------------------------------------
+For Training and Testing8
+The bestK = 7.0
+Accuracy = 63.74999999999999%
+Execution Time = 0.748sec
+------------------------------------
+------------------------------------
+For Training and Testing9
+The bestK = 7.0
+Accuracy = 62.3%
+Execution Time = 0.721sec
+------------------------------------
+------------------------------------
+For Training and Testing10
+The bestK = 15.0
+Accuracy = 65.75%
+Execution Time = 1.485sec
+------------------------------------
